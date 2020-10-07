@@ -1,0 +1,14 @@
+server:
+  port:8081
+
+
+propertyname:
+  mapkeyValuePair:
+    key-string1:
+      booleanType: true
+      name: "First Inner Object"
+      integerField: 1
+    key-string2:
+      booleanType: false
+      name: "second Inner Object"
+      integerField: 2
